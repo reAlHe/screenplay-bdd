@@ -1,0 +1,12 @@
+ch/obergerichtzh/ui/SearchBox.java
+ ch.obergerichtzh.ui.SearchBox
+ch/obergerichtzh/features/search/package-info.java
+ ch.obergerichtzh.features.search.package-info
+ch/obergerichtzh/features/search/SearchByKeywordStory.java
+ ch.obergerichtzh.features.search.SearchByKeywordStory
+ch/obergerichtzh/tasks/OpenTheApplication.java
+ ch.obergerichtzh.tasks.OpenTheApplication
+ch/obergerichtzh/tasks/Search.java
+ ch.obergerichtzh.tasks.Search
+ch/obergerichtzh/ui/GoogleSearchPage.java
+ ch.obergerichtzh.ui.GoogleSearchPage
